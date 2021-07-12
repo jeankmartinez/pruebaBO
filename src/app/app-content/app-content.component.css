@@ -1,0 +1,86 @@
+.content{
+    padding: 0.5em;
+}
+
+.msj-alerta{
+    color: #d2ab1c !important;
+    border-radius: 0.5em;
+    text-align: left;
+    margin-bottom: 3em;
+}
+.lbl-msj-inicial{
+    color: #008ACC !important;
+}
+.lbl-nombreEmpresa{
+    font-size: 30px;
+    color: #02305A;
+}
+.lbl-nombreEmpresa{
+    font-size: 30px;
+    font-weight: bold;
+    color: #02305A;
+}
+.lbl-nit{
+    font-size: 20px;
+    color: #7e7e7e;
+}
+.lbl-campo{
+    font-size: 16px;
+    font-weight: bold;
+    color: #02305A;
+}
+.lbl-campo-valor{
+    font-size: 16px;
+    color: #02305A;
+}
+.lbl-separador{
+    font-size: 20px;
+    font-weight: bold;
+    color: #008ACC;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+.separador-info{
+    padding-bottom: 2em;
+}
+.content-mensaje{
+    text-align: left;
+}
+.card-body{
+    padding: 0em;
+    border-radius: 0.5em !important;
+}
+.content-card{
+    border-radius: 0.5em !important;
+    border: 0.2em;
+}
+.card {
+    border-radius: 0.5em;
+}
+.btn-continuar{
+    background-color: #e9ecef !important;
+    color: #008ACC !important;
+    padding: 0.5em;
+    border-bottom-right-radius: 0.5em;
+    border-bottom-left-radius: 0.5em;
+}
+a{
+    color: #02305A;
+    text-decoration: none;
+}
+#link_leasing.disabled {
+    color: gray;
+    pointer-events: none;
+}
+.content-button:hover {
+    background-color: #fff5f5e5 !important;
+}
+.img-btn-continuar{
+    /*margin: 2em;*/
+    width: 70px;
+    margin-top: 3em;
+    margin-bottom: 2em;
+}
+.lbl-btn-continuar{
+    margin-bottom: 1em;
+}
